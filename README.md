@@ -1,0 +1,5 @@
+- Hello, I am @auramarua, the Ouroboran.
+- I’m interested in alchemy and recurses.
+- I’m currently learning GLSL and assorted shadow magic.
+- I’m looking to collaborate on ~~baking an apple pie from scratch~~creating the universe.
+- You may also find me at [Twitter](https://www.twitter.com/auramarua).
